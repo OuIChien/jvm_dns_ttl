@@ -13,7 +13,7 @@ import java.util.Date;
 public class Main {
 
 
-    final static String hostname = "dns.o1j.me";
+    final static String hostname = "www.google.com";
 
     public static void main(String[] args) {
         // only required for Java SE 5 and lower:
